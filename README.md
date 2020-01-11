@@ -1,6 +1,9 @@
 ## June 2018: Java Graphic Implementation of Minesweeper. 
 Utilizes OOP (Object-Oriented Programming) paradigm and JavaX Swing Graphics for a fully-functioning, customizable version of Minesweeper. 
 
+![Images of game](images/GameImage1.png)
+![Images of game](images/GameImage2.png)
+
 ## **Class Overview:**
 
 ### Tile
@@ -32,5 +35,3 @@ Initializes the game frame, displayed board, clickable buttons, button icons. Th
 
 ### SweeperGame
 Sets up the game playing environment. Allows users to select difficulty, configures all buttons, and sets up separate panes with a stopwatch, # of mines left, and the board itself. 
-
-![Images of game](images/GameImage1.png)
