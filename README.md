@@ -33,4 +33,4 @@ Initializes the game frame, displayed board, clickable buttons, button icons. Th
 ### SweeperGame
 Sets up the game playing environment. Allows users to select difficulty, configures all buttons, and sets up separate panes with a stopwatch, # of mines left, and the board itself. 
 
-![Images of game](tree/master/images/GameImage1.png)
+![Images of game](images/GameImage1.png)
