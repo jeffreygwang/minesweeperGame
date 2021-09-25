@@ -1,5 +1,5 @@
-## June 2018: Java Graphic Implementation of Minesweeper. 
-Utilizes OOP (Object-Oriented Programming) paradigm and JavaX Swing Graphics for a fully-functioning, customizable version of Minesweeper. 
+# Java Minesweeper
+Utilizes JavaX Swing Graphics for a fully-functioning, customizable version of Minesweeper. 
 
 ![Images of game](images/GameImage1.png)
 ![Images of game](images/GameImage2.png)
